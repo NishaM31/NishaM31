@@ -14,7 +14,7 @@ a passionate Full Stack Developer currently working at **Unosis IT Solution Pvt 
 
 🛠 **Skills**:
 - MongoDB, SQL, PostgreSQL  
-- Java, Python  
+- Java  
 - Data Structures and Algorithms (DSA)
 
 🚀 **My focus**:
